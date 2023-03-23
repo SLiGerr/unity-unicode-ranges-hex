@@ -3,5 +3,5 @@ I tired googling fookin ranges for languages and since i have not found similar 
 
 English, Russian: 
 ```
-0020-007F, 0400-04FF, 00A0-00FF
+0020-007F,0400-04FF,00A0-00FF
 ```
